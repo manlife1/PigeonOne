@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840459166196",
+    "project_id": "pigeon-one",
+    "storage_bucket": "pigeon-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840459166196:android:78acc503c14c2292c419a1",
+        "android_client_info": {
+          "package_name": "com.mr.pigeonone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840459166196-8ks3dlp9iqjlur89jo9kgn190k7l7t9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mr.pigeonone",
+            "certificate_hash": "bf3cd10563ecde2d0f165a0ada8c42c5cddca537"
+          }
+        },
+        {
+          "client_id": "840459166196-1qrqmu4ouce5jdhatcj41kp6qk8a1lvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUy5k8Wy6yl8PjMmHfeM1Xp40N6tg-xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840459166196-1qrqmu4ouce5jdhatcj41kp6qk8a1lvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
